@@ -1,4 +1,31 @@
-# Getting Started with Create React App
+# App Proyectos
+Aplicación para la gestión de proyectos - Mongo DB Express React JS y Node JS
+
+Tutorial Luis Cabrera
+
+https://www.youtube.com/watch?v=BDfBbJWBRGs&list=PLdcAPGja1uw0LSn7kx-Plj76x8UZZLgz9&t=0s
+
+Dependencias
+- npm install react-router-dom@5.2.0
+- npm i react-bootstrap bootstrap //bootstrap
+- npm i yup //validaciones de formulario
+- npm i @hookform/resolvers //adaptador de yup a react
+- npm i react-hook-form //manejo de formularios
+- npm yup //validación de campos en formularios
+- npm @hookform/resolvers //adaptador yup-react (comunicación)
+
+Autenticación, navbar, routes, Bootstrap, Pages Account
+
+![](https://repository-images.githubusercontent.com/433030561/a3f24cb6-1dca-4047-bb33-d94b9e4f8a63)
+
+
+
+
+
+
+
+
+Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
